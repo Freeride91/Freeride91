@@ -1,7 +1,7 @@
 - 👋  Hi, I’m András Polyák from Budapest, Hungary
 - 👀  I’m interested in music, guitar, piano, singing, and making apps that supports these activities :)
 - 🌱  **My web application that I'm really proud of is https://vocalroutine.com**
-- 💞️  I’m looking to collaborate on music-included webapps.
+- 💻  I’m looking to collaborate on music-included webapps.
 - 📫  How to reach me: http://polyakandras.hu 😊🙏
 
 <!---
